@@ -12,4 +12,4 @@ tags:
   - alt-right
 ---
 
-Schmidt argues that the KKK thrived in and around Charlottesville because its white supremacy was in line with norms of civility, and was hence supported (if tacitly) by local civic institutions. Her piece provides a jarring and succinct history of white supremacist group presence in town, arguing that a break from politeness is necessary to take on the “alt-right.”
+Schmidt argues that the KKK thrived in and around Charlottesville because its white supremacy was in line with norms of civility, and was hence supported (if tacitly) by local civic institutions. Her piece provides a jarring and succinct history of white supremacist group presence in Charlottesville, arguing that a break from politeness is necessary to take on the “alt-right.”
