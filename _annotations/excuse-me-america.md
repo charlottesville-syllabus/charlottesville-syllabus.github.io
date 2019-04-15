@@ -1,11 +1,11 @@
 ---
 layout: annotation
 title: Excuse me, America, your house is on fire: Lessons from Charlottesville on the KKK and "alt-right"
-author_last: Schmidt
-author_first: Jalane
+creator:
+  - Schmidt, Jalane
 publication: Medium
 publication_date: 2017-06-27
-url: https://medium.com/resist-here/excuse-me-america-your-house-is-on-fire-lessons-from-charlottesville-on-the-kkk-and-alt-right-84aafddca685
+original_url: https://medium.com/resist-here/excuse-me-america-your-house-is-on-fire-lessons-from-charlottesville-on-the-kkk-and-alt-right-84aafddca685
 tags:
   - white supremacy
   - ku klux klan

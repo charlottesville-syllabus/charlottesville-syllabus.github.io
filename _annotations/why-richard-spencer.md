@@ -1,11 +1,11 @@
 ---
 layout: annotation
 title: Why Richard Spencer Matters
-author_last: Bouie
-author_first: Jamelle
+creator:
+  -Bouie, Jamelle
 publication: Slate
 publication_date: 2017-05-22
-url: https://slate.com/news-and-politics/2017/05/why-richard-spencer-matters.html
+original_url: https://slate.com/news-and-politics/2017/05/why-richard-spencer-matters.html
 tags:
   - white supremacy
   - alt-right

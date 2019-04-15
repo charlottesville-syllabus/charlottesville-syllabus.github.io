@@ -1,11 +1,11 @@
 ---
 layout: annotation
 title: On Not Taking the Bait
-author_last: Mazique
-author_first: Marc
+creator:
+  - Mazique, Marc
 publication: Black, Whole
 publication_date: 2017-07-10
-url: http://www.black-whole.org/2017/07/10/on-not-taking-the-bait/
+original_url: http://www.black-whole.org/2017/07/10/on-not-taking-the-bait/
 tags:
   - white supremacy
 

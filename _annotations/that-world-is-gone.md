@@ -1,10 +1,11 @@
 ---
 layout: annotation
 title: That World is Gone: Race and Displacement in a Southern Town
-author_last: XX
-author_first: xxx
-publication: xxx
-publication_date: 2010-01-01
+creator:
+  - Ayers, Hannah
+  - Warren, Lance
+  - Field Studio
+publication_date: 2010-11-06
 url: https://www.fieldstudiofilms.com/that-world-is-gone/
 tags:
   - gentrification

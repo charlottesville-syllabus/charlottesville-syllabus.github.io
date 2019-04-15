@@ -1,9 +1,9 @@
 ---
 layout: annotation
 title: Citizens' Councils Newspaper Historical Source
-author_last: Sebesta
-author_first: Edward H.
-url: http://www.citizenscouncils.com/blog/
+creator:
+  - Sebesta, Edward H.
+original_url: http://www.citizenscouncils.com/blog/
 tags:
   - white supremacy
   - database
