@@ -11,6 +11,7 @@ tags:
   - gentrification
   - Vinegar Hill
   - black business district
+  - documentary
 
 ---
 Through scholarly research and interviews with surviving residents, this short film documents the history of Charlottesville’s Vinegar Hill neighborhood and its 1965 destruction, particularly exploring the link between property ownership and economic power.
