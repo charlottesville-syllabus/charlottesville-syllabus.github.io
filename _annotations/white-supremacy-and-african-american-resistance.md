@@ -12,4 +12,6 @@ tags:
   - Charlottesville Black history
   - white supremacy
 ---
-A documentary history of early 20th Century Charlottesville that excavates the black residents who lived, worked, and resisted in the face of local and statewide white supremacist political activity.
+This site focuses on African American suffrage in Charlottesville from 1900 to 1925 and chronicles attempts to prevent African Americans from voting and anti-disenfranchisement political activity. Author T. Nicole Tucker has compiled news clippings, political correspondence, legislation, meeting minutes, and individual profiles of politically-active African Americans in Charlottesville.
+
+%%A documentary history of early 20th Century Charlottesville that excavates the black residents who lived, worked, and resisted in the face of local and statewide white supremacist political activity.

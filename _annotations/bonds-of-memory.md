@@ -1,7 +1,8 @@
 ---
 layout: annotation
 title: "Those who labor for my happiness": Slavery at Thomas Jefferson's Monticello
-creator: Stanton, Lucia C.
+creator:
+  - Stanton, Lucia C.
 publication_date: 2012
 original_url: https://www.worldcat.org/title/those-who-labor-for-my-happiness-slavery-at-thomas-jeffersons-monticello/oclc/752471539
 tags:
