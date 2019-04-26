@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Not Here, Not In My Town &#58;  Charlottesville Black Lives Matter on the Meaning of Community Defense
+title: "Not Here, Not In My Town: Charlottesville Black Lives Matter on the Meaning of Community Defense"
 creator:
   - Lazare, Sarah
   - Woolfork, Lisa
