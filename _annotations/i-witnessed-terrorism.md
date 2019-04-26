@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: I witnessed terrorism in Charlottesville from a foot away
+title: 'I witnessed terrorism in Charlottesville from a foot away'
 creator:
   - Straughn, David
 publication: Scalawag

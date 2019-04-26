@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Natalie Romero es la colombiana de 20 años víctima de ataque en Charlottesville
+title: "Natalie Romero es la colombiana de 20 años víctima de ataque en Charlottesville"
 creator:
   - Borja, Hanna Melissa
   - Romero, Natalie
