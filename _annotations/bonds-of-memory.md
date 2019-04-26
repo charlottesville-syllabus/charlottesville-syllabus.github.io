@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: ""Those who labor for my happiness": Slavery at Thomas Jefferson's Monticello"
+title: "Those who labor for my happiness: Slavery at Thomas Jefferson's Monticello"
 creator:
   - Stanton, Lucia C.
 publication_date: 2012
