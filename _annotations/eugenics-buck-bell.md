@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Eugenics in Virginia: Buck v. Bell and Forced Sterilization
+title: "Eugenics in Virginia: Buck v. Bell and Forced Sterilization"
 creator:
   - Claude Moore Health Sciences Library
 publication: Historical Collections at the Claude Moore Health Sciences Library

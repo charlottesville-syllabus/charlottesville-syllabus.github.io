@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Study of eugenics has long history at U.Va.: Pseudoscience studies academically in early part of 20th century
+title: "Study of eugenics has long history at U.Va.: Pseudoscience studies academically in early part of 20th century"
 creator:
   - Satpathy, Ankita
   - Schutte, David

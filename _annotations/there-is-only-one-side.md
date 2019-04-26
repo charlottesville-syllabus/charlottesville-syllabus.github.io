@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: There is Only One Side to the Story of Charlottesville: Five Lessons from what could prove a decisive moment
+title: "There is Only One Side to the Story of Charlottesville: Five Lessons from what could prove a decisive moment"
 creator:
   - Perriello, Tom
 publication: Slate

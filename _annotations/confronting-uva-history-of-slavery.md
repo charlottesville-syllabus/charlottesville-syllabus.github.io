@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Confronting U.Va.'s history of slavery: Administration, Charlottesville community consider reparations
+title: "Confronting U.Va.'s history of slavery: Administration, Charlottesville community consider reparations"
 creator:
   - Hall, Hannah
 publication: The Cavalier Daily

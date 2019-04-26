@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Ebony and Ivy: Race, Slavery and the Troubled History of America's Universities
+title: "Ebony and Ivy: Race, Slavery and the Troubled History of America's Universities"
 creator:
   - Wilder, Craig Steven
 publication_date: 2013-09-17

@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: Excuse me, America, your house is on fire: Lessons from Charlottesville on the KKK and "alt-right"
+title: "Excuse me, America, your house is on fire: Lessons from Charlottesville on the KKK and "alt-right""
 creator:
   - Schmidt, Jalane
 publication: Medium

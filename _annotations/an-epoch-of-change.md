@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: An Epoch of Change: A Timeline of The University 1955-1975
+title: "An Epoch of Change: A Timeline of The University 1955-1975"
 creator:
   - Omara-Alwala, Atima
 publication_date: 2003

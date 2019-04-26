@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: The Moderates' Dilemma: Massive Resistance to School Desegregation in Virginia
+title: "The Moderates' Dilemma: Massive Resistance to School Desegregation in Virginia"
 creator:
   - Lewis, Andrew B.
 publication_date: 1998-10-01

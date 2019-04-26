@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: That World is Gone: Race and Displacement in a Southern Town
+title: "That World is Gone: Race and Displacement in a Southern Town"
 creator:
   - Ayers, Hannah
   - Warren, Lance

@@ -1,13 +1,13 @@
 ---
 layout: annotation
-title: Charlottesville might be changed for me forever: Students Contemplate Return to School
+title: "Charlottesville might be changed for me forever: Students Contemplate Return to School"
 creator:
   - Svrluga, Susan,
   - Shapiro, T.Rees
   - Larimer, Sarah
   - Nakayama, Ian
   - Gobar, Wes
-  - Andrews, Oronde 
+  - Andrews, Oronde
   - Willis, Devin
 publication: The Washington Post
 publication_date: 2017-08-14
