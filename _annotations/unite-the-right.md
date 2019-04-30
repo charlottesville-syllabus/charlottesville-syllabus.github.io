@@ -1,6 +1,6 @@
 ---
 layout: annotation
-title: 'Unite The Right' Rally Forced Charlottesville To Rethink Town's Racial History
+title: "'Unite The Right' Rally Forced Charlottesville To Rethink Town's Racial History"
 creator:
   - Elliott, Debbie
 publication: National Public Radio
