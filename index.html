@@ -12,7 +12,7 @@ title: Home
 {% endcapture %}
 {% assign creator_array =  creator_string | strip | split: "|" %}
 <article class="bibiography">
-    <p class="citation">“<a href="{{ page.url }}">{{ page.title }}</a>,” by {{ creator_array | array_to_sentence_string }}. <em>{{ page.publication }}</em>, {{ page.publication_date }}</p>
+    <p class="citation">“<a href="{{ page.original_url }}">{{ page.title }}</a>,” by {{ creator_array | array_to_sentence_string }}. <em>{{ page.publication }}</em>, {{ page.publication_date }}</p>
 <p>{{ page.content }}</p>
 </article>
 {% endfor %}

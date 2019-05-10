@@ -12,4 +12,4 @@ tags:
   - Donald Trump
 
 ---
-This article talks about President Donald Trump’s inadequate response on the one year anniversary of the Charlottesville white nationalist rally. He only tweeted once about the rally. Additionally, O'Brien catalogs controversial figures such as David Duke, Laura Ingraham and Jason Kessler as they publicly weighed in regarding the anniversary on their media platforms and discussed the need for white empowerment in this country. 
+This article talks about President Donald Trump’s inadequate response on the one year anniversary of the Charlottesville white nationalist rally. He only tweeted once about the rally. Additionally, O'Brien catalogs controversial figures such as David Duke, Laura Ingraham and Jason Kessler as they publicly weighed in regarding the anniversary on their media platforms and discussed the need for white empowerment in this country.  

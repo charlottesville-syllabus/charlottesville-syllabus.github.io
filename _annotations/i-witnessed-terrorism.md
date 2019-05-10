@@ -5,7 +5,7 @@ creator:
   - Straughn, David
 publication: Scalawag
 publication_date: 2017-08-16
-original_url:https://www.scalawagmagazine.org/2017/08/i-witnessed-terrorism-in-charlottesville-from-a-foot-away/
+original_url: https://www.scalawagmagazine.org/2017/08/i-witnessed-terrorism-in-charlottesville-from-a-foot-away/
 tags:
   - statues
   - BLM Charlottesville
