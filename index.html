@@ -4,8 +4,15 @@ title: Home
 ---
 
 {% for page in site.annotations %}
+{% capture creator_string %}
+{% for creator in page.creator %}
+{% assign names = creator | split:"," %}
+{{ names[1] }} {{ names[0] }}|
+{% endfor %}
+{% endcapture %}
+{% assign creator_array =  creator_string | strip | split: "|" %}
 <article class="bibiography">
-<p class="citation">“<a href="{{ page.url }}">{{ page.title }}</a>,” by {{ page.author_first }} {{ page.author_last }}. <em>{{ page.publication }}</em>, {{ page.publication_date }}</p>
+    <p class="citation">“<a href="{{ page.url }}">{{ page.title }}</a>,” by {{ creator_array | array_to_sentence_string }}. <em>{{ page.publication }}</em>, {{ page.publication_date }}</p>
 <p>{{ page.content }}</p>
 </article>
 {% endfor %}
